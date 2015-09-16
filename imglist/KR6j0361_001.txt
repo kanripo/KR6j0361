@@ -1,0 +1,3 @@
+001-0601a00	T 001-0601a	buddhist/T-taisho/T20/06/T20-0601.png
+001-0601b00	T 001-0601b	buddhist/T-taisho/T20/06/T20-0601.png
+001-0601c00	T 001-0601c	buddhist/T-taisho/T20/06/T20-0601.png
